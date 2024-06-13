@@ -1,2 +1,3 @@
-Directory Tugas Pemrograman
-I.2211134 - Neddy Avgha Prasetio
+## Directory Tugas Pemrograman
+- NIM: I.2211134
+- Nama: Neddy Avgha Prasetio
